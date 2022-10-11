@@ -1,0 +1,9 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+#canvas{
+    border: 50px solid rgb(247, 244, 244);
+}
